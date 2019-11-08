@@ -21,6 +21,10 @@ It provides access control and several collaboration tools such as bug tracking 
 
 8.Pushing the files in local repository to GitHub repository(git push origin master).
 
+# If u want change the existing repository
+
+- git remote set-url origin REPOSITORYURL.git
+
 
 
 
